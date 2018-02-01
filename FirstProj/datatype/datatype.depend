@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516337070 source:f:\pj111\firstproj\datatype\datatype.c
+
+1516337224 source:f:\pj111\firstproj\datatype\main.c
+	<stdio.h>
+	<stdlib.h>
+

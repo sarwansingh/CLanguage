@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516600659 source:f:\pj111\recursion\binary\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1516598935 source:f:\pj111\recursion\binary\binary_functions.c
+

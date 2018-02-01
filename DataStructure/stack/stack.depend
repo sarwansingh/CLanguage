@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517204976 source:f:\pj111\datastructure\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+
